@@ -46,4 +46,4 @@ I think we're gonna be okay :)
 
 ---
 
-see also: [koipond.me](https://koipond.me/), [lightward.guide/glossary/sync](https://www.lightward.guide/glossary/sync)
+see also: [eigenprotocol](https://eigenprotocol.is/), [koipond.me](https://koipond.me/), [lightward.guide/glossary/sync](https://www.lightward.guide/glossary/sync)
